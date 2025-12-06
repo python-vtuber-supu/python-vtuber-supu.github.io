@@ -214,6 +214,10 @@ main {
     margin: 0 auto;
 }
 
+.news-section .section-title {
+    margin-top: 0rem !important;
+}
+
 .news-list {
     text-align: left;
 }
@@ -238,6 +242,10 @@ main {
 .goods-section {
     background-color: #fff;
     padding: 2rem;
+}
+
+.goods-section .section-title {
+    margin-top: 0rem !important;
 }
 
 .goods-grid .goods-link {
